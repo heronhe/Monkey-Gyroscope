@@ -18,3 +18,8 @@
     MK_Gyroscope.yaoyao = function(){
         document.getElementById("yaoyao").innerHTML = ++n;
     }
+    
+
+删除陀螺仪事件
+
+    MK_Gyroscope.clear();
